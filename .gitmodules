@@ -1,0 +1,6 @@
+[submodule "wp-content/themes/_s"]
+	path = wp-content/themes/_s
+	url = git@github.com:fczuardi/_s.git
+[submodule "wp-content/themes/bones"]
+	path = wp-content/themes/bones
+	url = git@github.com:fczuardi/bones.git
