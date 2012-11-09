@@ -4,3 +4,9 @@
 [submodule "wp-content/themes/bones"]
 	path = wp-content/themes/bones
 	url = git@github.com:fczuardi/bones.git
+[submodule "wp-content/themes/HTML5-Reset-Wordpress-Theme"]
+	path = wp-content/themes/HTML5-Reset-Wordpress-Theme
+	url = git@github.com:fczuardi/HTML5-Reset-Wordpress-Theme.git
+[submodule "wp-content/themes/skeleton_wp"]
+	path = wp-content/themes/skeleton_wp
+	url = git@github.com:fczuardi/skeleton_wp.git
